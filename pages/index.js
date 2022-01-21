@@ -12,7 +12,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          "hello, i love you"
+          hello, i love you
         </h1>
       </main>
 
